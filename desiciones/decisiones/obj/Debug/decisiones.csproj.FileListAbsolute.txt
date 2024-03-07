@@ -1,0 +1,2 @@
+C:\Users\delmy\Desktop\prueba\desiciones\decisiones\obj\Debug\decisiones.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\prueba\desiciones\decisiones\obj\Debug\decisiones.csproj.CoreCompileInputs.cache
